@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="385fca5c-006b-4ce4-90a7-4e479dba785c" name="Default Changelist" comment="" />
+    <list default="true" id="385fca5c-006b-4ce4-90a7-4e479dba785c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chuyenDoiTienTe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuyenDoiTienTe.html" beforeDir="false" afterPath="$PROJECT_DIR$/chuyenDoiTienTe.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,10 +14,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1k3p2MEM1SIk9dLshimoErDeb2T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,7 +31,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lyThuyet/vd_baihoc_dieukien" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,6 +47,7 @@
       <workItem from="1604945113191" duration="4492000" />
       <workItem from="1604969443508" duration="3943000" />
       <workItem from="1604974159971" duration="15000" />
+      <workItem from="1604976639368" duration="270000" />
     </task>
     <servers />
   </component>
